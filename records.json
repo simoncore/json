@@ -1,0 +1,18 @@
+[
+  {
+  "artist": "Elliott Smith",
+  "album": "New Moon",
+  "location": {
+  "first floor": ["office nook", "garage entrance"],
+  "second floor": ["hallway", "bedroom"]
+  }
+  },
+  {
+  "artist": "Bane",
+  "album": "Don't Give Up",
+  "location": {
+  "first floor": ["office nook", "garage entrance"],
+  "second floor": ["hallway", "bedroom"]
+    }
+  }
+]
